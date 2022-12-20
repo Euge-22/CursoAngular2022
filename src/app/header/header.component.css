@@ -1,0 +1,16 @@
+.header {
+
+  background-color: gray;
+  border-bottom: solid 10px black;
+
+
+}
+
+.menu {
+  margin: 0;
+  padding: 0px;
+}
+
+.logo {
+   height: 20rem;
+}
